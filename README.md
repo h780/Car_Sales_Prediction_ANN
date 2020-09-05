@@ -1,0 +1,2 @@
+# Car_Sales_Prediction_ANN
+In this project I assumed that I'm working as a data scientist at a car dealership and would like to predict the purchasing power of customers based on their features. I want to analyze customer behavior by predicting how much they are willing to pay using customer features such as age, annual salary, credit card debt and net worth. I'm building neural network using Keras, optimizing it using Atom optimizer, loading dataset i.e. csv files using Pandas, visualizing data using Seaborn library and normalizing and training datasets using Scikit-Learn. 
